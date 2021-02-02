@@ -43,12 +43,17 @@ The second script compares the Fast GPA Sampler (from my thesis) to the GPA Samp
   
 To change the experimental setup, consider changing the parameter values (in particular random seed and train/pool/test sizes) in the python scripts and the .yaml configuration files in configs/.
 
-## Results
+## Example Results from source/compare_gpa_rand.py
 
 <p align="center">
   <img src="https://ghcdn.rawgit.org/LukasErlenbach/active_learning_bnn/master/images/result_script1.png" width="85%"/>
 </p>
 
+## Example Results from source/compare_fastgpa_batchgpa.py
+
+<p align="center">
+  <img src="https://ghcdn.rawgit.org/LukasErlenbach/active_learning_bnn/master/images/result_script2.png" width="85%"/>
+</p>
 
 
 
