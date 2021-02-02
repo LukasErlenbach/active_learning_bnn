@@ -46,7 +46,7 @@ To change the experimental setup, consider changing the parameter values (in par
 ## Results
 
 <p align="center">
-  <img src="https://cdn.rawgit.com/LukasErlenbach/active_learning/master/images/results_script2.png" width="85%"/>
+  <img src="https://ghcdn.rawgit.org/LukasErlenbach/active_learning_bnn/master/images/result_script1.png" width="85%"/>
 </p>
 
 
