@@ -1,0 +1,25 @@
+al_schedule:
+  al_iter: 5
+  num_al_incr: 200
+  num_train_init: 500
+net_config:
+  center_at_target: true
+  divergence_scale: 1.0
+  layer_sizes:
+  - 100
+  - 100
+  learning_rate: 0.0001
+  ncp_scale: 0.1
+  noise_std: 0.1
+  ood_std_prior: null
+parms:
+  n_mc_samples: 200
+  name_model: bnn
+  sample_policy: random
+  sampling_batch_size: 10
+seed: 0
+train_schedule:
+  batch_size: 16
+  eval_after_epochs: 10
+  log_after_epochs: 500
+  num_epochs: 1000
