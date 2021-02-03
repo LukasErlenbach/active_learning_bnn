@@ -2,7 +2,7 @@
 
 _(last modified 01.02.2021 by Lukas Erlenbach, [LinkedIn profile](https://www.linkedin.com/in/lukas-erlenbach/))_
 
-This directory contains a sample of the code I have written during my master thesis which is available [here](https://drive.google.com/file/d/1pgNn8ZAEjHANyzPy7JGC8-J0p2qUgxoO/view?usp=sharing).
+This directory contains parts of the code that I have written during my master thesis (which is available [here](https://drive.google.com/file/d/1pgNn8ZAEjHANyzPy7JGC8-J0p2qUgxoO/view?usp=sharing)).
 
 The project implements a active learning framework for Bayesian Neural Networks and regression tasks and is based on a paper by Tsymbalov et al. [1]. Furthermore, it contains a generalization with faster runtime which is described in chapter 5.4 of the thesis. 
 
