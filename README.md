@@ -45,16 +45,11 @@ To change the experimental setup, consider changing the parameter values (in par
 
 ## Example Results from source/compare_gpa_rand.py
 
-<p align="center">
-  <img src="https://ghcdn.rawgit.org/LukasErlenbach/active_learning_bnn/master/images/result_script1.png" width="85%"/>
-</p>
+![Example Results](https://github.com/LukasErlenbach/active_learning_bnn/blob/master/images/result_script1.png)
 
 ## Example Results from source/compare_fastgpa_batchgpa.py
 
-<p align="center">
-  <img src="https://ghcdn.rawgit.org/LukasErlenbach/active_learning_bnn/master/images/result_script2.png" width="85%"/>
-</p>
-
+![Example Results](https://github.com/LukasErlenbach/active_learning_bnn/blob/master/images/result_script2.png)
 
 
 ### References
